@@ -1,4 +1,4 @@
-@@@ DISCLAIMER @@
+@@@ DISCLAIMER @@@
 
 Encryption app. It's built only in educational purpose to demonstrate app maintaining skills.
 Do not use it to really hide some information - it's not safe.
